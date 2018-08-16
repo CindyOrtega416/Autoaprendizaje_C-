@@ -1,0 +1,9 @@
+   
+     Tips C++:
+
+* cin>>nombre_variable
+
+permite y pide el ingreso de datos
+Ejemplo cuando haces         numero=cin.get();            pide el ingreso de datos
+
+                             cin>>numero;                 pide y permite el ingreso de datos
